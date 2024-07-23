@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vishranthi-arun.github.io/quiz/",
+  "homepage": "https://vishranthi-arun.github.io/quiz/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
