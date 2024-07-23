@@ -4,27 +4,34 @@ import Result from './Result';
 
 const quizData = [
   {
-    questionText: 'Which river is the longest in the world?',
-    options: ['Amazon', 'Mississippi','Nile', 'Yangtze'],
-    correctAnswer: 'Nile',
+    questionText: 'Who invented the BALLPOINT PEN?',
+    options: ['Write Brothers', 'Bicc Brothers','Waterman Brothers', 'Biro Brothers'],
+    correctAnswer: 'Biro Brothers',
   },
   {
-    questionText: 'Which is the largest island?',
-    options: ['New Guinea', 'Andaman Nicobar', 'Hawaii','Greenland'],
-    correctAnswer: 'Greenland',
+    questionText: 'What Galileo invented?',
+    options: ['Barometer','Pendulum clock','Microscope','Thermometer'],
+    correctAnswer: 'Thermometer',
 
   },
   {
-    questionText: 'What is considered the lung of the Earth?',
-    options: ['Amazon rainforest', 'The Mississippi River', 'The Sahara','Everest'],
-    correctAnswer: 'Amazon rainforest',
+    questionText: `Who is the author of the book 'Nineteen Eighty Four'?`,
+    options: [
+      'Thomas Hardy',
+      'Emile Zola',
+      'George Orwell',
+      'Walter Scott'],
+    correctAnswer: 'George Orwell',
 
   },
 
   {
-    questionText: 'What is the official currency of Japan??',
-    options: ['Won', 'Yen', 'Dollars', 'Yuan'],
-    correctAnswer: 'Yen',
+    questionText: `'MOV' extension refers usually to what kind of file?`,
+    options: ['Image file',
+     'Animation/movie file',
+      'Audio file',
+      'MS Office document'],
+    correctAnswer: 'Animation/movie file',
   },
 
 
